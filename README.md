@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Eduardo Cavagnoli/ README.md
+# 👋 Olá, eu sou Eduardo Cavagnoli
 
 ## 🧪 Analista de Quality Assurance (QA) | QA Júnior
 
